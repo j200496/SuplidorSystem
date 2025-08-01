@@ -42,7 +42,8 @@ SupplierApp/
 │   ├── AddEditSupplierForm.cs
 ├── Data/
 │   └── DbConnection.cs
-###
-Created by Joel Diaz
 ├── Program.cs
 ├── App.config
+---
+## Deveopment
+Created by Joel Diaz
